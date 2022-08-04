@@ -1,0 +1,33 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+.header_left {
+  display: flex;
+  color: gray;
+  background-color: #fff;
+  min-width: 70px;
+  border-radius: 30px;
+  align-items: center;
+  padding: 5px;
+}
+.header_left > input {
+  border: none;
+  width: 100%;
+}
+
+.header_right {
+  display: flex;
+  align-items: center;
+}
+.header_right > span {
+  /* width: 3rem; */
+  font-size: 9px;
+  letter-spacing: 1px;
+}
+.avatar {
+  border-radius: 50%;
+  width: 25px !important;
+  height: 25px !important;
+}

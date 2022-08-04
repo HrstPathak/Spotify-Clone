@@ -1,0 +1,22 @@
+.login {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  background-color: black;
+}
+.login > img {
+  width: 80%;
+}
+.login > a {
+  padding: 15px;
+  border-radius: 99px;
+  background-color: #1db954;
+  color: white;
+  font-weight: 800;
+  text-decoration: none;
+  letter-spacing: 2px;
+}
+.login > a:hover {
+  box-shadow: 1px 1px 4rem white;
+}
