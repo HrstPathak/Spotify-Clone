@@ -1,5 +1,6 @@
-Link => 
-Link => https://spotifyclone-v-1.web.app/#
+Link 1 => https://spotify-clone-dd5f5.web.app    
+
+Link 2 => https://spotifyclone-v-1.web.app/#
 SPOTIFY CLONE
 Technology used is ReactJs & Spotify web API.
 It authenticates You by your real spotify account than it takes Your data like your user Detail & your Songs Info.
