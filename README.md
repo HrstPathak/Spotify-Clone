@@ -11,4 +11,9 @@ You can remotely access your spotify Webapp to play the songs through this.(Open
 
 
 ![Screenshot (31)](https://user-images.githubusercontent.com/89193946/183065864-2a4af9b0-b3aa-415e-a207-24b226cb2344.png)
-![Screenshot (32)](https://user-images.githubusercontent.com/89193946/183065899-be487b96-a118-46b9-8ba0-7b00a3f392d4.png)
+
+![Screenshot (46)](https://user-images.githubusercontent.com/89193946/183235977-6beb28a9-c17b-45dd-8a8b-d7f7dc23de0c.png)
+
+
+
+![Screenshot (47)](https://user-images.githubusercontent.com/89193946/183236010-a517e1f8-af3e-4bae-aac7-fbb066984add.png)
